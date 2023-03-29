@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node.js, React**
 
-- 👨‍💻 All of my projects are available at [gonzalopassa.netlify.app](gonzalopassa.netlify.app)
+- 👨‍💻 All of my projects are available at [gonzalopassa.netlify.app](https://gonzalopassa.netlify.app/)
 
 - 📫 How to reach me **Gonzalopassa@hotmail.com**
 
