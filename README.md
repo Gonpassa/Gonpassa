@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **Gonzalopassa@hotmail.com**
 
-- ⚡ Fun fact **I love Alan Watts**
+- ⚡ Fun fact **Big fan of Alan Watts**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
