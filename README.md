@@ -3,9 +3,8 @@
 
 <p align="left"> <a href="https://twitter.com/gonzopq" target="blank"><img src="https://img.shields.io/twitter/follow/gonzopq?logo=twitter&style=for-the-badge" alt="gonzopq" /></a> </p>
 
-- 🔭 I’m currently working on **my 100hrs project!**
 
-- 🌱 I’m currently learning **Node.js, React**
+- 🌱 I’m currently learning **NextJS, Tailwind**
 
 - 👨‍💻 All of my projects are available at [gonzalopassa.netlify.app](https://gonzalopassa.netlify.app/)
 
