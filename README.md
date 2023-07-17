@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [gonzalopassa.netlify.app](https://gonzalopassa.netlify.app/)
 
-- 📫 How to reach me **Gonzalopassa@hotmail.com**
+- 📫 How to reach me **Gonzalopassadev@gmail.com**
 
 - ⚡ Fun fact **Big fan of Alan Watts**
 
