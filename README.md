@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gonzalo</h1>
 <h3 align="center">A passionate fullstack developer from Florida</h3>
 
-<p align="left"> <a href="https://twitter.com/gonzopq" target="blank"><img src="https://img.shields.io/twitter/follow/gonzopq?logo=twitter&style=for-the-badge" alt="gonzopq" /></a> </p>
 
 
 - 🌱 I’m currently learning **NextJS, Tailwind**
